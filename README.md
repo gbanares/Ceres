@@ -14,7 +14,7 @@ MVC Design pattern, Uses Google Maps API, Firebase and Weather API.
 
 ### Screenshot
 
-![FruitSpotter App Screenshot](/others/fruitspotter_img.png)
+![FruitSpotter App Screenshot](/fruitspotter_img.png)
 
 ### Disclaimer
 
